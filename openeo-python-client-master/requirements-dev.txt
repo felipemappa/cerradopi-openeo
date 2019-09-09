@@ -1,0 +1,6 @@
+sphinx
+sphinx-autodoc-annotation
+mock
+requests-mock
+pytest
+flake8
